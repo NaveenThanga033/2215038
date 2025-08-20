@@ -1,0 +1,19 @@
+{
+  "name": "shorturl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "generatecode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.11.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.17.2"
+  }
+}
